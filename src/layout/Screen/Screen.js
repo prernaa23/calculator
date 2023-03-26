@@ -1,7 +1,7 @@
 import React from "react";
 
-import ResultScreen from "./ResultScreen/ResultScreen";
-import ComputationScreen from "./ComputationScreen/ComputationScreen";
+import ResultScreen from "./ResultScreen";
+import ComputationScreen from "./ComputationScreen";
 
 const screen = (props) => (
   <section className="screen">
